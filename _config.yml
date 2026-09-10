@@ -30,12 +30,12 @@ author:
   location         :
   employer         : "Sun Yat-sen University"
   uri              : # URL
-  email            :
+  email            : "zhujzh29@mail2.sysu.edu.cn"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=aSPNn_UAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            :
