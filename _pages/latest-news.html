@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "Latest News"
+permalink: /latest-news/
+author_profile: true
+redirect_from:
+  - /talks/
+---
+
+<p>Updates on conference participation, paper acceptances, and other academic activities.</p>
+
+{% assign news_items = site.data.news | sort: "date" | reverse %}
+{% if news_items.size > 0 %}
+<ul class="news-list">
+  {% for item in news_items %}
+  <li>
+    <time datetime="{{ item.date | date: '%Y-%m-%d' }}"><strong>{{ item.date | date: "%B %d, %Y" }}</strong></time>
+    {{ item.content | markdownify }}
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>No updates yet.</p>
+{% endif %}
