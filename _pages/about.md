@@ -16,3 +16,7 @@ My research interests include **embodied intelligence**, **visual navigation**, 
 - Embodied Intelligence
 - Visual Navigation
 - Computer Vision
+
+## Education
+
+{% include education.md %}
