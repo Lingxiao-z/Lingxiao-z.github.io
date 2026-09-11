@@ -3,7 +3,7 @@
 **Master's Studies in Computer Technology**  
 School of Computer Science  
 September 2025 – Present · Expected graduation: June 2028  
-Advisor: Hui Cheng
+Advisor: [Hui Cheng](https://cse.sysu.edu.cn/teacher/ChengHui)
 
 ### Beijing University of Posts and Telecommunications
 
